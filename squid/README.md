@@ -1,0 +1,1 @@
+Solutions for SQL Squid Game here https://datalemur.com/sql-game
